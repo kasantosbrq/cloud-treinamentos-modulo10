@@ -1,3 +1,3 @@
-Apagar este frase e escrever outra aqui
+Novo Commit para teste ~
 
 Esse arquivo é de instruções 
