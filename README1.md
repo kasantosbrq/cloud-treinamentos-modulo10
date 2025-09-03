@@ -12,3 +12,6 @@ image.png
 
 --------------
 
+create Role codedeploy-modulo10 created.
+
+--------------
